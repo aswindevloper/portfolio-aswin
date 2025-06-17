@@ -9,28 +9,28 @@ import { FaDev, FaDatabase } from "react-icons/fa";
 const personalDetails = [
   {
     label: "Name",
-    value: "John Doe",
+    value: "Aswin S",
   },
   {
     label: "Age",
-    value: "27",
+    value: "20",
   },
   {
     label: "Address",
-    value: "India",
+    value: "Chennai, Tamil Nadu, India",
   },
   {
     label: "Email",
-    value: "demo@example.com",
+    value: "aswina.n2005@gmail.com",
   },
   {
     label: "Contact No",
-    value: "+11 3456789056",
+    value: "+91 9876543210",
   },
 ];
 
 const jobSummary =
-  "Seasoned and independent Front End Developer with 5 years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. Very passionate about aesthetics and UI design. It is imperative that you provide a thorough and professional approach to your resume. As a Front End Developer you will be judged by your ability to use UX and UI concepts and follow design guidelines. It is about expressing your attention to detail and how you can help implement design ideas for your future employer";
+  "I am an aspiring web developer and software engineer with a passion for coding, problem-solving, and designing scalable applications. My focus lies in developing interactive, responsive, and efficient software solutions. I'm eager to learn more, grow my skills, and contribute to challenging projects. Currently pursuing B.E. in Computer Science at Valliammai Engineering College, I am dedicated to applying theoretical knowledge to practical challenges. With a commitment to personal growth and a passion for emerging technologies, my goal is to leave a mark on the engineering field through continuous learning and meaningful contributions.";
 
 const About = () => {
   return (

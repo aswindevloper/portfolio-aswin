@@ -12,34 +12,38 @@ import { useState } from "react";
 const portfolioData = [
   {
     id: 2,
-    name: "Ecommerce",
+    name: "Electricity Bill Generation System",
     image: ImageOne,
     link: "",
+    description: "A PHP, MySQL, HTML, and CSS application designed to generate electricity bills and manage payments for consumers."
   },
   {
     id: 3,
-    name: "Notes App",
+    name: "Web3 Projects",
     link: "",
     image: ImageTwo,
+    description: "Smart contract development and Web3 applications"
   },
   {
     id: 2,
-    name: "Supplier Design",
+    name: "Content Creation",
     image: ImageThree,
     link: "",
+    description: "Tech content creation and management"
   },
   {
     id: 2,
-    name: "Todo App",
+    name: "Full Stack Development",
     image: ImageFour,
-
     link: "",
+    description: "Full stack web development projects"
   },
   {
     id: 3,
-    name: "Shopping cart design",
+    name: "Smart Contracts",
     image: ImageFive,
     link: "",
+    description: "Blockchain and smart contract development"
   },
 ];
 
@@ -50,11 +54,11 @@ const filterData = [
   },
   {
     filterId: 2,
-    label: "Developement",
+    label: "Development",
   },
   {
     filterId: 3,
-    label: "Design",
+    label: "Web3",
   },
 ];
 

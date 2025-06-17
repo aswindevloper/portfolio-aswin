@@ -1,42 +1,42 @@
 export const data = {
     experience: [
       {
-        title: "Consultant",
-        subTitle: "Miami, FL",
+        title: "Content Creator",
+        subTitle: "NOXALGO LLP, Madhya Pradesh, India",
         description:
-          " User Experience, Visual Design",
+          "Creating innovative content that captures attention and sparks discussions in the tech community. Blending creativity with analytical problem-solving.",
       },
       {
-        title: "Senior Consultant",
-        subTitle: "London, UK",
+        title: "Ambassador",
+        subTitle: "Corizo, Bengaluru, Karnataka, India",
         description:
-          "Web development, Databases, Backend developement",
+          "Playing a pivotal role in crafting compelling narratives that resonate. Engaging with audiences and promoting tech education.",
       },
       {
-        title: "Project Manager",
-        subTitle: "Bangalore, INDIA",
+        title: "Content Creator",
+        subTitle: "Kaizenspark Tech Pvt Ltd.",
         description:
-          "Creative Direction Project Management, Team Leading",
+          "Creating and managing content for tech-related topics and projects.",
       },
     ],
     education: [
       {
-        title: "Secondary",
-        subTitle: "ABC School",
+        title: "B.E. Computer Science",
+        subTitle: "Valliammai Engineering College",
         description:
-          "10th Grade",
+          "Currently pursuing Bachelor's degree in Computer Science (August 2023 - May 2027)",
       },
       {
-        title: "Higher Secondary",
-        subTitle: "ABC School of higher education",
+        title: "Senior Secondary",
+        subTitle: "THRIVENI ACADEMY CBSE SENIOR SECONDARY SCHOOL",
         description:
-          "12th Grade in Science",
+          "Completed Senior Secondary Education (June 2022 - April 2023)",
       },
       {
-        title: "B.Tech",
-        subTitle: "XYZ institute of technology",
+        title: "Secondary School",
+        subTitle: "THRIVENI ACADEMY CBSE SENIOR SECONDARY SCHOOL",
         description:
-          "Bachelor of technology in computer science",
+          "Completed Secondary School Education (March 2021)",
       },
     ],
   };
